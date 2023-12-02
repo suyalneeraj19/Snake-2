@@ -1,1 +1,1 @@
-https://suyalneeraj19.github.io/SnakeGame/
+https://suyalneeraj19.github.io/Snake-2/
